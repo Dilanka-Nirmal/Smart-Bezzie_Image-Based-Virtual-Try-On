@@ -3,25 +3,25 @@
 ###### Implementation of Image-Based Virtual Try-On on Google Colab
 <br/>
 
-![This is cover image.](/images/Screenshot 2023-07-24 190250.png "This is cover image.")
+![Screenshot 2023-07-24 190250](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/f582ec1b-98ac-4644-b481-9845a5ec0e09)
 
-![This is 1st image.](/images/Screenshot 2023-07-24 191907.png "This is cover image.")
+![Screenshot 2023-07-24 191907](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/e23a4122-f729-4964-a30e-73221bae4807)
 
-![This is 2nd image.](/images/Screenshot 2023-07-24 191929.png "This is cover image.")
+![Screenshot 2023-07-24 191929](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/24725ece-1290-4613-b77e-de2505ba424c)
 
-![This is 3rd image.](/images/Screenshot 2023-07-24 191944.png "This is cover image.")
+![Screenshot 2023-07-24 191944](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/f89be2a7-3ed1-4268-afec-2eb310d06aa9)
 
-![This is 4th image.](/images/Screenshot 2023-07-24 191958.png "This is cover image.")
+![Screenshot 2023-07-24 191958](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/19717fec-795e-47ab-bdbf-69b8f9edbbde)
 
-![This is 5th image.](/images/Screenshot 2023-07-24 192019.png "This is cover image.")
+![Screenshot 2023-07-24 192019](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/4e181cd3-b4fc-4044-8f5d-077bdd6da536)
 
-![This is 6th image.](/images/Screenshot 2023-07-24 192037.png "This is cover image.")
+![Screenshot 2023-07-24 192037](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/d963da54-4ca6-413f-a097-78a805e1f352)
 
-![This is 7th image.](/images/Screenshot 2023-07-24 192051.png "This is cover image.")
+![Screenshot 2023-07-24 192051](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/ebd73e5d-9f80-4c59-a30c-9ca2e31caaf4)
 
-![This is 8th image.](/images/Screenshot 2023-07-24 192105.png "This is cover image.")
+![Screenshot 2023-07-24 192105](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/5f297d31-5a6c-4597-80d8-1c28c8be96b5)
 
-![This is 9th image.](/images/Screenshot 2023-07-24 192122.png "This is cover image.")
+![Screenshot 2023-07-24 192122](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/c1b0cea4-9d79-43e0-8744-ecfffc127685)
 
 ## Google Colab Link
 
