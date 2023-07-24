@@ -1,7 +1,10 @@
 # Smart-Bezzie_Image-Based-Virtual-Try-On
 
 ###### Implementation of Image-Based Virtual Try-On on Google Colab
-<br/>
+
+#### Google Colab Link
+
+https://colab.research.google.com/drive/1Ly1a6KICKPUpLej3y8kkwN1ARtdA_XHL?usp=sharing
 
 ![Screenshot 2023-07-24 190250](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/f582ec1b-98ac-4644-b481-9845a5ec0e09)
 
@@ -22,9 +25,3 @@
 ![Screenshot 2023-07-24 192105](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/5f297d31-5a6c-4597-80d8-1c28c8be96b5)
 
 ![Screenshot 2023-07-24 192122](https://github.com/Dilanka-Nirmal/Smart-Bezzie_Image-Based-Virtual-Try-On/assets/79443522/c1b0cea4-9d79-43e0-8744-ecfffc127685)
-
-## Google Colab Link
-
-https://colab.research.google.com/drive/1Ly1a6KICKPUpLej3y8kkwN1ARtdA_XHL?usp=sharing.
-
-
